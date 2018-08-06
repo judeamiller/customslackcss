@@ -442,7 +442,7 @@ body:not(.loading) #team_menu.active {
 .p-channel_sidebar__link--selected:hover .p-channel_sidebar__badge,
 .p-channel_sidebar__link--selected:hover .p-channel_sidebar__banner--mentions {
 	background: #ffffff !important;
-	color: #b294bb !important;
+	color: #bb9932 !important;
 }
 
 .p-channel_sidebar__badge,
