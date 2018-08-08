@@ -192,7 +192,7 @@ body:not(.loading) #team_menu.active {
 }
 
 .client_container .c-message--light .c-message__sender .c-message__sender_link {
-	color: #efc68b;
+	color: #EF9B3A;
 }
 
 .client_container .c-message--light .c-message__sender .c-message__sender_link:hover {
@@ -429,7 +429,7 @@ body:not(.loading) #team_menu.active {
 .p-channel_sidebar__channel--selected:hover,
 .p-channel_sidebar__link--selected,
 .p-channel_sidebar__link--selected:hover {
-	background: #efc68b !important;
+	background: #EF9B3A !important;
 	color: #ffffff !important;
 }
 
@@ -442,7 +442,7 @@ body:not(.loading) #team_menu.active {
 .p-channel_sidebar__link--selected:hover .p-channel_sidebar__badge,
 .p-channel_sidebar__link--selected:hover .p-channel_sidebar__banner--mentions {
 	background: #ffffff !important;
-	color: #efc68b !important;
+	color: #EF9B3A !important;
 }
 
 .p-channel_sidebar__badge,
@@ -527,7 +527,7 @@ body:not(.loading) #team_menu.active {
 }
 
 .cm-s-default .cm-keyword {
-	color: #efc68b;
+	color: #EF9B3A;
 }
 
 .cm-s-default .cm-atom {
@@ -612,7 +612,7 @@ ts-message:hover:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.n
 .dark_theme ts-message .message_content .message_sender,
 .light_theme ts-message .message_content .message_sender,
 ts-thread .thread_header .thread_channel_name a {
-	color: #efc68b !important;
+	color: #ef9b3a !important;
 }
 
 .dark_theme ts-message .message_content .message_sender:hover,
