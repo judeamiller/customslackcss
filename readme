@@ -1,0 +1,12 @@
+this is a custom css file for slack for mac. I did not make this modification. This is an aggregation of a couple of themes I found then modified. 
+
+To install paste lines 5-12 at the bottom of ssb-interop.js. This file can be found at Slack.app/Contents/Resources/app.asar.unpacked/src/static/ssb-interop.js
+
+document.addEventListener('DOMContentLoaded', function() {
+  $.ajax({
+    url: 'https://judeamiller.github.io/customslackcss/customslackcss.css',
+    success: function(css) {
+      $("<style></style>").appendTo('head').html(css);
+    }
+  });
+ });
